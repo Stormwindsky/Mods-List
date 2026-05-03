@@ -1,2 +1,26 @@
-# Mods-List
+# Mods List
+
+## IMPORTANT:
+
 Here are the only mods of mine that aren't licensed under CC0 1.0. These are two old mods I'm not too proud of, which I'm going to recreate and license under CC0 1.0 instead of MIT. The only other exceptions will be my mods based on forks.
+
+##### ---------------------
+
+##### ---------------------
+
+### Minecraft (Java):
+
+####### Coming Soon
+
+###### 100% made by me:
+
+
+
+###### Forks:
+
+
+
+
+#### DoggyTalents 1.7.10 Plus:
+
+https://github.com/Stormwindsky/DoggyTalents1.7.10-Plus
