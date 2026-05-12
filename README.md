@@ -10,10 +10,9 @@ Here are the only mods of mine that aren't licensed under CC0 1.0. These are two
 
 ### Minecraft (Java):
 
-####### Coming Soon
-
 ###### 100% made by me:
 
+####### Coming Soon
 
 
 ###### Forks:
