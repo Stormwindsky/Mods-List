@@ -24,3 +24,21 @@ Here are the only mods of mine that aren't licensed under CC0 1.0. These are two
 #### DoggyTalents 1.7.10 Plus:
 
 https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=DoggyTalents1.7.10-Plus
+
+
+##### ---------------------
+
+##### ---------------------
+
+### Luanti (Minetest):
+
+
+###### 100% made by me:
+
+####### Coming Soon
+
+###### Forks:
+
+####### Coming Soon
+
+
