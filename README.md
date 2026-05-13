@@ -38,13 +38,17 @@ https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=DoggyTalents1.7.10-Plus
 
 https://github.com/Stormwindsky/superflat-world
 
-#### Simple Run
+#### Simple Run:
 
 https://github.com/Stormwindsky/Simple-Run
 
-#### Start at Night
+#### Start at Night:
 
 https://github.com/Stormwindsky/Start-at-Night
+
+#### Time Freezer:
+
+https://github.com/Stormwindsky/Time-Freezer
 
 ###### Forks:
 
