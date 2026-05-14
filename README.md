@@ -50,6 +50,10 @@ https://github.com/Stormwindsky/Start-at-Night
 
 https://github.com/Stormwindsky/Time-Freezer
 
+#### LT-MC-Chat-Connector (LTMCCC):
+
+https://github.com/Stormwindsky/LT-MC-Chat-Connector
+
 ###### Forks:
 
 ####### Coming Soon
