@@ -12,8 +12,11 @@ Here are the only mods of mine that aren't licensed under CC0 1.0. These are two
 
 ###### 100% made by me:
 
-####### Coming Soon
+https://github.com/Stormwindsky/Magic-Teleporter-Tools
 
+https://github.com/Stormwindsky/Rotten-Flesh-Now-Useful
+
+https://github.com/Stormwindsky/Monsters-Everywhere
 
 ###### Forks:
 
