@@ -59,6 +59,6 @@ https://github.com/Stormwindsky/LT-MC-Chat-Connector
 
 ###### Forks:
 
-####### Coming Soon
+###### Coming Soon
 
 
