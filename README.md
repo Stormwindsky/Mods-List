@@ -18,6 +18,8 @@ https://github.com/Stormwindsky/Rotten-Flesh-Now-Useful
 
 https://github.com/Stormwindsky/Monsters-Everywhere
 
+https://github.com/Stormwindsky/Poutine-Mod
+
 ###### Forks:
 
 
