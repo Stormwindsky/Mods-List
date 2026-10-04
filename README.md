@@ -59,6 +59,10 @@ https://github.com/Stormwindsky/Time-Freezer
 
 https://github.com/Stormwindsky/LT-MC-Chat-Connector
 
+##### Day Counter:
+
+https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=day_counter
+
 ###### Forks:
 
 ###### Coming One Day lol
