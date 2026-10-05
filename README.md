@@ -49,7 +49,8 @@ https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=DoggyTalents1.7.10-Plus
 
 #### SuperFlat World:
 
-https://github.com/Stormwindsky/superflat-world
+https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=superflat-world
+
 
 #### Simple Run:
 
