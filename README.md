@@ -10,7 +10,11 @@ Here are the only mods of mine that aren't licensed under MIT-0. These are two o
 
 ### GMOD:
 
+##### 100% made by me:
+
 https://github.com/Stormwindsky/GMOD-Gamemode-Template
+
+https://github.com/Stormwindsky/npcs
 
 ##### ---------------------
 
